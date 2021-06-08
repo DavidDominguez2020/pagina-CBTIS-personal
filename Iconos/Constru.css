@@ -1,0 +1,95 @@
+body{
+	background-color: white;
+}
+div#Gran{
+	background-color:white ;
+	margin-top: 0px;
+	margin-left: 40px;
+	margin-right: 40px;
+	height: 1900px;
+	width: 1500px;
+}
+div#uno{
+	background-color: #557DAA;
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 250px;
+	width: 1500px;
+}
+div#Titulo{
+	width: 80%;
+	margin-top: 30px;
+	margin-left: 100px;
+}
+p#header{
+	text-align: center;
+	font-size: 2.3em;
+	color: black; 
+}
+div#one_{
+	margin-top: 0px;
+	margin-left: 50px;
+	float: left;
+}
+div#two_{
+	margin-top: 0px;
+	margin-right: 20px;
+	float: right;
+}
+div#Video{
+	float: center;
+	margin-left: 200px;
+}
+div#ima{
+	margin-top: 0px;
+	margin-right: 20px;
+	float: right;
+}
+div#iz{
+	background-color: #7FAA55;
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 1630px;
+	width: 320px;
+	float: right;
+}
+div#mediano{
+	background-color: white;
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 1590px;
+	width: 1500px;
+}
+div#chiquito{
+	text-align: center;
+	background-color: #7FAA55;
+	height: 40px;
+	width: 1180px;
+	float: 
+}
+.zoom{
+	transition: width 1.5s, height 1.5s, transform 1.5s;
+	-moz-transition:width all 1.5s,height 1.5s, -moz-transform 1.5s;
+	-webkit-transition:width all 1.5s,height 1.5s,-webkit-transform 1.5s;
+	-o-transition:widht all 1.5s, height 1.5s, -o-transform 1.5s;
+}
+.zoom:hover{
+	transform:scale(1.1);
+	-moz-transform:scale(1.1);
+	-webkit-transform:scale(1.1);
+	-o-transform: scale(1.1);
+}
+p#ocultar{
+	text-align: left;
+	color:black;
+	font-size: 1.4em;
+	margin-left: 10px;
+	font-family: Helvetica Neue;
+}
+p#mostrar{
+	text-align: right;
+	color:black;
+	font-size: 1.4em;
+	margin-right: 10px;
+	font-family: Helvetica Neue;
+}

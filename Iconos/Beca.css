@@ -1,0 +1,129 @@
+body{
+	background-color: black;
+}
+div#Gran{
+	background-color:black ;
+	margin-top: 0px;
+	margin-left: 40px;
+	margin-right: 40px;
+	height: 1900px;
+	width: 1500px;
+}
+div#uno{
+	background-color: white;
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 250px;
+	width: 1500px;
+}
+div#Titulo{
+	width: 80%;
+	margin-top: 30px;
+	margin-left: 100px;
+}
+p#header{
+	text-align: center;
+	font-size: 2.3em;
+	color: black; 
+}
+p#header_2{
+	text-align: center;
+	font-size: 2.16em;
+	color: white; 
+}
+p#header_3{
+	text-align: center;
+	font-size: 1.3em;
+	color: white; 
+}
+div#one_{
+	margin-top: 0px;
+	margin-left: 50px;
+	float: left;
+}
+div#two_{
+	margin-top: 0px;
+	margin-right: 20px;
+	float: right;
+}
+div#iz{
+	background-color: white;
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 1630px;
+	width: 320px;
+	float: right;
+}
+div#mediano{
+	background-color: #D0D3D4;
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 1590px;
+	width: 1500px;
+}
+div#desvanecido{
+	background-color: black;
+	text-align: center;
+}
+div#pas-1{
+	background-color: #58D68D;
+	height: 120px; 
+	width: 950px;
+	margin-left: 110px;
+	margin-right: 20px;
+}
+div#pas-2{
+	background-color: #58D68D;
+	height: 120px; 
+	width: 950px;
+	margin-left: 110px;
+	margin-right: 20px;
+}
+div#pas-3{
+	background-color: #58D68D;
+	height: 120px; 
+	width: 950px;
+	margin-left: 110px;
+	margin-right: 20px;
+}
+div#pas-4{
+	background-color: #58D68D;
+	height: 120px; 
+	width: 950px;
+	margin-left: 110px;
+	margin-right: 20px;
+}
+div#pas-5{
+	background-color: red;
+	height: 120px; 
+	width: 950px;
+	margin-left: 110px;
+	margin-right: 20px;
+}
+div#beca{
+	margin-left: 100px;
+	float: left;
+}
+div#video{
+	float: right;
+	margin-right: 100px;
+}
+div#chiquito{
+	text-align: center;
+	background-color: #D0D3D4;
+	height: 40px;
+	width: 1180px;
+	float: 
+}
+.zoom{
+	transition: width 1.5s, height 1.5s, transform 1.5s;
+	-moz-transition:width all 1.5s,height 1.5s, -moz-transform 1.5s;
+	-webkit-transition:width all 1.5s,height 1.5s,-webkit-transform 1.5s;
+	-o-transition:widht all 1.5s, height 1.5s, -o-transform 1.5s;
+}
+.zoom:hover{
+	transform:scale(1.1);
+	-moz-transform:scale(1.1);
+	-webkit-transform:scale(1.1);
+	-o-transform: scale(1.1);
+}
